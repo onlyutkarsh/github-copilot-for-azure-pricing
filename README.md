@@ -12,13 +12,13 @@ Simply open GitHub Copilot Chat and start a conversation with @azpricing!
 
 ### Chat using natural language
 
-![Chat](./screenshots/chat.png)
+![Chat](./images/chat.png)
 
 ### Get useful insights
 
 In addition to pricing details, the responses might also include some useful insights.
 
-![Insights](./screenshots/insights.png)
+![Insights](./images/insights.png)
 
 > For accurate information, please refer to Azure Pricing Center.
 
