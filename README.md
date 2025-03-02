@@ -10,8 +10,22 @@ Simply open GitHub Copilot Chat and start a conversation with @azpricing!
 
 ## Features
 
+### Chat using natural language
 
 
+![Chat](./screenshots/chat.png)
+
+### Get useful insights
+
+Along with pricing details, the responses will also include few useful insights.
+
+![Insights](./screenshots/insights.png)
+
+> For accurate information, please refer to Azure Pricing Center.
+
+### Copy results
+
+You can copy the response and also raw results as markdown table for your own analysis.
 
 ## What Services are supported?
 
@@ -22,3 +36,7 @@ Currently you can query 100+ Azure Services including Virtual Machines, Azure Da
 ## Known issues
 
 - Occasionally, the history is not sent with the context, which may result in responses that do not align with the context.
+
+## Disclaimer
+
+The information provided by the GitHub Copilot for Azure Pricing extension may not always be accurate or up-to-date. Users are strongly advised to refer to the Azure Pricing Center for the most reliable and current information before making any decisions.
