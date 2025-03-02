@@ -6,7 +6,7 @@ Simply open GitHub Copilot Chat and start a conversation with @azpricing!
 
 ## Demo
 
-<video src="https://github.com/onlyutkarsh/github-copilot-for-azure-pricing/blob/main/demo.mp4"></video>
+<video src="demo.mp4"></video>
 
 ## Features
 
