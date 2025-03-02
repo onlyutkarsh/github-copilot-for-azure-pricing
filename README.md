@@ -6,7 +6,7 @@ Simply open GitHub Copilot Chat and start a conversation with @azpricing!
 
 ## Demo
 
-<video src="https://youtu.be/k0p3PtZAx3o"></video>
+![Demo](images/demo.gif)
 
 ## Features
 
