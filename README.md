@@ -12,12 +12,11 @@ Simply open GitHub Copilot Chat and start a conversation with @azpricing!
 
 ### Chat using natural language
 
-
 ![Chat](./screenshots/chat.png)
 
 ### Get useful insights
 
-Along with pricing details, the responses will also include few useful insights.
+In addition to pricing details, the responses will include a few useful insights.
 
 ![Insights](./screenshots/insights.png)
 
